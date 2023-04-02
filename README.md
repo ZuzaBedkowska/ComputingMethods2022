@@ -12,4 +12,4 @@
 - Gram's orthogonal polynomial approximation for equidistant nodes
 - Gram's orthogonal polynomial approximation for non-distant nodes
 - Numerical procedures for solving ordinary differential equations (Euler algorithm, Runge-Kutta of 4th order algorithm, Runge-Kutta of 4th order algorithm)
--Root-finding algorithms (Newton–Raphson method, Secant method, Bisection method, Regula falsi)
+- Root-finding algorithms (Newton–Raphson method, Secant method, Bisection method, Regula falsi)
